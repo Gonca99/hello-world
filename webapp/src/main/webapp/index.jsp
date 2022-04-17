@@ -6,7 +6,8 @@
   <label for="lname">Last name:</label><br>
   <input type="text" id="lname" name="lname" value="Doe"><br><br>
   <input type="password" id="pw" name="pw" placeholder="Type Your Password">
-  <input type="password" id="pw" name="pw" placeholder="Retype Your Password"> 
+  <label for="lname">Password:</label><br>
+  <input type="password" id="pw" name="pw" placeholder="Retype Your Password"><br> 
   <input type="submit" value="Submit">
 </form> 
 
