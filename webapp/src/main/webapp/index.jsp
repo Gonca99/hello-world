@@ -1,10 +1,12 @@
-<h2>HTML Forms</h2>
+<h2>HTML Forms</h2iii>
 
 <form action="/action_page.php">
   <label for="fname">First name:</label><br>
   <input type="text" id="fname" name="fname" value="John"><br>
   <label for="lname">Last name:</label><br>
   <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="password" id="pw" name="pw" placeholder="Type Your Password">
+  <input type="password" id="pw" name="pw" placeholder="Retype Your Password"> 
   <input type="submit" value="Submit">
 </form> 
 
